@@ -5,12 +5,12 @@ Each component was rendered with absolute position in specific order to overlap 
  
 ##Inspiration
 
-![demo](https://raw.githubusercontent.com/ggomaeng/react-native-svg-chicken/master/inspiration.gif)
+![](https://raw.githubusercontent.com/ggomaeng/react-native-svg-chicken/master/inspiration.gif)
 
 Chicken Comes by [Tigran Manukyan (kit8)](https://dribbble.com/Tmotion)
 
 ###Demo
-![demo](https://raw.githubusercontent.com/ggomaeng/react-native-svg-chicken/master/demo.gif)
+![](https://raw.githubusercontent.com/ggomaeng/react-native-svg-chicken/master/demo.gif)
 
 ## Try it out
 
